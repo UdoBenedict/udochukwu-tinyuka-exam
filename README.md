@@ -38,7 +38,6 @@
 5. The page did not load in the browser. After much changes to config files, I decided to disable & stop nginx and install apache2, enable & start it. It worked.
 6. The ip address where the page is hosted is http://13.41.73.118/
 
+![htmlpage](htmlimage.png)
 
 
-
-  
