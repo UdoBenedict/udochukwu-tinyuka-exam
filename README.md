@@ -38,7 +38,11 @@
 5. The page did not load in the browser. After much changes to config files, I decided to disable & stop nginx and install apache2, enable & start it. It worked.
 6. The ip address where the page is hosted is http://3.8.184.38/
 
-![HTMLimage](htmlimage.png)
+![HTMLimage](https://github.com/UdoBenedict/udochukwu-tinyuka-exam/main/htmlimage-1.png)
+
+<img src="htmlimage.png" alt="HTML Screenshot">
+
+I tried inserting an image screenshot of my html page but for some reason, Github didn't render/display the image.
 
 
 
