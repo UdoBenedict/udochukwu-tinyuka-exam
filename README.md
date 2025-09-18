@@ -45,3 +45,13 @@
 I tried inserting an image screenshot of my html page but for some reason, Github didn't render/display the image.
 
 A new line of code.
+<<<<<<< HEAD
+=======
+
+A new line of new code.
+
+
+
+
+
+>>>>>>> origin/main
