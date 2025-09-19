@@ -48,6 +48,8 @@ A new line of code.
 <<<<<<< HEAD
 =======
 
+Yet another line of code.
+
 A new line of new code.
 
 
